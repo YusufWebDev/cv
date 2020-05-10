@@ -1,0 +1,25 @@
+body {
+    background-color: #dee3e2;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: thick;
+    height: 2px;
+    width: 5%;
+
+  }
+
+  h1 {
+    color: rgb(64, 79, 167);
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;;
+    
+
+  }
+  h2, h3 {
+    color: #66BFBF;
+    text-decoration: underline;
+    padding-left: 20px;
+  }
